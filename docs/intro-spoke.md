@@ -25,7 +25,7 @@ sidebar_label: 스포크(Spoke)로 장면(Scene) 빌드하기
 콘텐츠를 허브에 즉시 게시하여 새로운 공간에서 사람들을 초대합니다. 단 몇 번의 클릭만으로 브라우저에서 &mdash를 경험하고 공유할 수 있습니다.
 
 
-![Speak의 스크린샷](img/introspoke-screenshot-min.jpeg)
+![Speak의 스크린샷](img/intro-spoke-screenshot-min.jpeg)
 
 
 ## 시작하기
